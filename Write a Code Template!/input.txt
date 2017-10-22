@@ -1,0 +1,25 @@
+10 9
+1234567890
+!@#$%^&*()
+qwertyuiop
+QWERTYUIOP
+asdfghjkl;
+ASDFGHJKL:
+zxcvbnm,./
+ZXCVBNM<>?
+[]{}='"-|+
+"'asfafd'
+%TEMPLATE-START%
+aa
+%TEMPLATE-END%
+C
+%TEMPLATE-START%
+int main()
+{
+    
+}
+%TEMPLATE-END%
+'af'
+%TEMPLATE-START%
+aa
+%TEMPLATE-END%
